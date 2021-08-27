@@ -3,13 +3,11 @@
 	font-display: block;
 	font-weight: 400;
 	font-style: normal;
-	src:  url('fonts/iosevka-extended.woff2') format('woff2'), 
-        url('fonts/iosevka-extended.ttf') format('truetype');
+	src:  url('fonts/iosevka-regular.woff2') format('woff2');
 }
 
 @font-face {
 	font-family: 'Iosevka';
 	font-weight: 700;
-	src:  url('fonts/iosevka-extended-bold.woff2') format('woff2'), 
-        url('fonts/iosevka-extended-bold.ttf') format('truetype');
+	src:  url('fonts/iosevka-bold.woff2') format('woff2');
 }
